@@ -1,4 +1,4 @@
-# Frontend - Projeto APP
-Esse é o Frontend do Projeto APP.
+# Backend - Projeto APP
+Esse é o Backend do Projeto APP.
 
 
